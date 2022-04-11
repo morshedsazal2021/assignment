@@ -1,0 +1,97 @@
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+h2 {
+    font-size: 40px;
+}
+
+h3 {
+    font-size: 30px;
+}
+
+.fresh {
+    color: #FE492E;
+}
+
+.flaxible {
+    display: flex;
+    margin-bottom: 100px;
+}
+
+.half {
+    width: 50%;
+    padding-left: 5px;
+}
+
+.half img {
+    width: 90%;
+}
+
+.order_link {
+    text-decoration: none;
+    background-image: linear-gradient(#FD5231, #FC8F49);
+    padding: 7px 21px;
+    color: rgb(255, 255, 255);
+    border-radius: 10px;
+}
+
+.second {
+    background-image: url(photos/shapes/Frame\ 59.jpg);
+    width: 100%;
+}
+
+.contact_link {
+    text-decoration: none;
+    background-image: linear-gradient(#FD5231, #FC8F49);
+    padding: 7px 21px;
+    color: rgb(255, 255, 255);
+    border-radius: 10px;
+
+}
+
+.middle {
+    text-align: center;
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-bottom: 200px;
+    color: #676767;
+}
+
+.Recipies {
+    width: 25%;
+    padding: 5%;
+    box-shadow: 2px 2px 2px 30px #e7e7e7;
+    margin-left: 3px;
+    margin-right: 3px;
+    border-radius: 10px;
+
+}
+
+.Recipies img {
+    width: 80%;
+    height: 50%;
+    padding: 5px;
+    border-radius: 20px;
+}
+
+footer {
+    text-align: center;
+    width: 1370px;
+    height: 100px;
+    background-color: #0B0E17;
+    padding: 20px;
+    color: #676767;
+}
+
+.footer {
+    color: #FD5231
+}
+
+.third {
+    border-radius: 10px;
+}
